@@ -15,7 +15,7 @@ Employing advanced computer vision techniques, specifically utilizing the MediaP
 Data Logging and Analysis
 A robust data logging mechanism is implemented using SQLite, ensuring comprehensive storage and retrieval of sensor data and system events. These data logs can be queried and visualized using matplotlib, facilitating in-depth data analysis and optimization through temporal and statistical methods.
 
-Remote Control and Monitoring
+Remote Control and Monitoring 
 A web-based interface, developed with Flask and enhanced with real-time communication capabilities via Socket.IO, empowers users to remotely control and monitor the system. This interface provides instantaneous feedback and command execution, leveraging WebSocket protocols for enhanced interactivity and low-latency communication.
 
 Setup
